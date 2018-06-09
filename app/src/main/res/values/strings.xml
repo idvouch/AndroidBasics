@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Android Basics</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+
+    <string name="correct_Toast">Correct !!</string>
+    <string name="inCorrect_Toast">Not Correct</string>
+
+
+
+
+
+    <string name="Question_1">The best private school in Nigeria is Covenant University</string>
+    <string name="Question_2">Nigeria is a </string>
+    <string name="Question_3"></string>
+    <string name="Question_4"></string>
+    <string name="Question_5"></string>
+    <string name="Question_6"></string>
+    <string name="Question_7"></string>
+    <string name="Question_8"></string>
+    <string name="Question_9"></string>
+    <string name="Question_10"></string>
+    <string name="Question_11"></string>
+    <string name="Question_12"></string>
+    <string name="Question_13"></string>
+    <string name="Question_14"></string>
+    <string name="enter_Name">Name</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">previous</string>
+
+
+</resources>
